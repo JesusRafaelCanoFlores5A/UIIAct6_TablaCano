@@ -17,3 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+# Resultados:
+- ![image](https://github.com/JesusRafaelCanoFlores5A/UIIAct6_TablaCano/assets/143547897/6f7f1751-f6c6-4858-be1c-f32a9cf7af2e)
+- ![image](https://github.com/JesusRafaelCanoFlores5A/UIIAct6_TablaCano/assets/143547897/6df2c15f-ea9f-46ce-9206-96f7fbc466b3)
+## Tabla Productos:
+- 
+
