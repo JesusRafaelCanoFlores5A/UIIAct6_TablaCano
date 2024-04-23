@@ -22,5 +22,8 @@ samples, guidance on mobile development, and a full API reference.
 - ![image](https://github.com/JesusRafaelCanoFlores5A/UIIAct6_TablaCano/assets/143547897/6f7f1751-f6c6-4858-be1c-f32a9cf7af2e)
 - ![image](https://github.com/JesusRafaelCanoFlores5A/UIIAct6_TablaCano/assets/143547897/6df2c15f-ea9f-46ce-9206-96f7fbc466b3)
 ## Tabla Productos:
-- 
+- ![image](https://github.com/JesusRafaelCanoFlores5A/UIIAct6_TablaCano/assets/143547897/abd7d380-8e8d-445e-9de3-8f8da466fef8)
+- ![image](https://github.com/JesusRafaelCanoFlores5A/UIIAct6_TablaCano/assets/143547897/bd0ee984-6a2e-482a-8755-db62d06fc6b4)
+
+
 
